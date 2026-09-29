@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: demo
     database: demo
-    schema: dbt_model
+    schema: demo_schema
     tables: 
       - name: bike
       - name: weather
